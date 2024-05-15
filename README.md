@@ -20,6 +20,7 @@ You always can customize the degree of freedom by yourself just change the " df 
 - matplotlib
 
 ## Installation
+You can just copy and paste the code or you can do this instead,
 
 1. Clone the repository:
     ```bash
